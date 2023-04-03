@@ -1,5 +1,3 @@
-package lista04_04.src;
-
 import java.util.Scanner;
 
 public class ex04 {
